@@ -1,4 +1,4 @@
-# react-clock
+# react-clock ![Clock](clock.gif)
 A Clock designed using React.js and HTML Canvas.
 
 ### installation
